@@ -2,7 +2,7 @@
 
 [![Łukasz Radziak GitHub stats](https://github-readme-stats-lemon-phi.vercel.app/api?username=lukaszradziak&count_private=true&include_all_commits=true)](https://github.com/lukaszradziak)
 
-[![Top Langs](https://github-readme-stats-lemon-phi.vercel.app/api/top-langs/?username=lukaszradziak)](https://github.com/lukaszradziak)
+[![Top Langs](https://github-readme-stats-lemon-phi.vercel.app/api/top-langs/?username=lukaszradziak&hide=C)](https://github.com/lukaszradziak)
 
 <!--
 **lukaszradziak/lukaszradziak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
