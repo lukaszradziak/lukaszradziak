@@ -13,5 +13,13 @@ I am a full-stack developer with 5 years of experience.
 
 <br/>
 
+# Stats 
 <a href="https://github.com/lukaszradziak"><img src="https://github-readme-stats-lemon-phi.vercel.app/api?username=lukaszradziak&count_private=true&include_all_commits=true&hide_rank=rank&theme=monokai&show_icons=true&line_height=40&custom_title=%C5%81ukasz%20Radziak%20GitHub%20Stats%20(with%20private%20repos)" /></a>
 <a href="https://github.com/lukaszradziak"><img src="https://github-readme-stats-lemon-phi.vercel.app/api/top-langs/?username=lukaszradziak&hide=C,Blade&theme=monokai" /></a>
+
+# Working on
+
+
+<a href="https://github.com/lukaszradziak/laravel-social-app"><img src="https://github-readme-stats-lemon-phi.vercel.app/api/pin/?username=lukaszradziak&repo=laravel-social-app" /></a>  <a href="https://github.com/lukaszradziak/volvo-monitor"><img src="https://github-readme-stats-lemon-phi.vercel.app/api/pin/?username=lukaszradziak&repo=volvo-monitor&time=123" /></a>
+
+
