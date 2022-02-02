@@ -13,4 +13,5 @@ I am a full-stack developer with 5 years of experience.
 
 <br/>
 
-[![Łukasz Radziak GitHub stats](https://github-readme-stats-lemon-phi.vercel.app/api?username=lukaszradziak&count_private=true&include_all_commits=true&hide_rank=rank&theme=monokai&show_icons=true&line_height=40)](https://github.com/lukaszradziak) [![Top Langs](https://github-readme-stats-lemon-phi.vercel.app/api/top-langs/?username=lukaszradziak&hide=C,Blade&theme=monokai)](https://github.com/lukaszradziak)
+<a href="https://github.com/lukaszradziak"><img src="https://github-readme-stats-lemon-phi.vercel.app/api?username=lukaszradziak&count_private=true&include_all_commits=true&hide_rank=rank&theme=monokai&show_icons=true&line_height=40&custom_title=%C5%81ukasz%20Radziak%20GitHub%20Stats%20(with%20private%20repos)" /></a>
+<a href="https://github.com/lukaszradziak"><img src="https://github-readme-stats-lemon-phi.vercel.app/api/top-langs/?username=lukaszradziak&hide=C,Blade&theme=monokai" /></a>
