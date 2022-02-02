@@ -1,6 +1,6 @@
 # Hi👋
 
-I am a full-stack developer with 5 years of experience.
+I am a full-stack developer with 2 years of experience.
 
 - 🔭 I’m currently working on Desk3D
 - 🌱 I’m currently learning TypeScript
