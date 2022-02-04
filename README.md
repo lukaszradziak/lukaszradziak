@@ -2,9 +2,9 @@
 
 I am a full-stack developer with 2 years of experience.
 
-- 🔭 I’m currently working on <a href="https://desk3d.pl/" target="_blank" rel="noreferrer">Desk3D</a>
+- 🔭 I’m currently working on <a href="https://desk3d.pl/">Desk3D</a>
 - 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: <a href="https://lukaszradziak.pl" target="_blank" rel="noreferrer">lukaszradziak.pl</a>
+- 📫 How to reach me: <a href="https://lukaszradziak.pl">lukaszradziak.pl</a>
 
 ## Languages and Tools
 
